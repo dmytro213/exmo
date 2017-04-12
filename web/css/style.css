@@ -1,0 +1,18 @@
+body {
+    background: #F9F9F9;
+}
+#cloneTo {
+    background: #fff;
+    overflow-y: auto;
+    height: 500px;
+    border: 1px solid silver;
+    padding: 10px;
+}
+#cloneThis {
+    display: none;
+}
+.datetime {
+    color: silver;
+    font-style: italic;
+    font-size: 0.7em;
+}
